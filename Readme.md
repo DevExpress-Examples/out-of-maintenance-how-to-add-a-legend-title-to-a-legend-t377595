@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/LegendTitleSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/LegendTitleSample/MainWindow.xaml))**
+<!-- default file list end -->
 # How to: Add a Legend Title to a Legend
 
 
